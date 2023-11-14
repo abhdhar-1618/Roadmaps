@@ -96,7 +96,22 @@
 
 # variables-data-types-operators
 
+- "**Variables**" can be considered as a temporary storage spaces where Data/Values can be stored in.
+- Every Variable is associated with a **data-type**. The **data-types** are
+**Integer**:- 10,500,-40,9.... etc.
+**Float(Decimal numbers)**:- 3.14,15,97,13.02.... etc.
+**Boolean**:- TRUE or FALSE (can also be 0 in place of TRUE and 1 in Place of FALSE)
+**String**:- These are basically different names. for example:- "Matt", "John", "Stuart", "Carpenter".... etc.
 
+1. Python Numeric Data Type
+Python numeric data type is used to hold numeric values like;
+
+1. int - holds signed integers of non-limited length.
+2. long- holds long integers(exists in Python 2.x, deprecated in Python 3.x).
+3. float- holds floating precision numbers and it’s accurate up to 15 decimal places.
+4. complex- holds complex numbers.
+
+In Python, we need not declare a datatype while declaring a variable like C or C++. We can simply just assign values in a variable. But if we want to see what type of numerical value is it holding right now, we can use **type()**
 
 
 # control-structures-if-for-while
