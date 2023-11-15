@@ -96,22 +96,27 @@
 
 # variables-data-types-operators
 
-- "**Variables**" can be considered as a temporary storage spaces where Data/Values can be stored in.
-- Every Variable is associated with a **data-type**. The **data-types** are
-**Integer**:- 10,500,-40,9.... etc.
-**Float(Decimal numbers)**:- 3.14,15,97,13.02.... etc.
-**Boolean**:- TRUE or FALSE (can also be 0 in place of TRUE and 1 in Place of FALSE)
-**String**:- These are basically different names. for example:- "Matt", "John", "Stuart", "Carpenter".... etc.
+**Variables in Python:**
 
-1. Python Numeric Data Type
-Python numeric data type is used to hold numeric values like;
+Variables are temporary storage spaces where data or values can be stored. Each variable is associated with a data type. The common data types include:
 
-1. int - holds signed integers of non-limited length.
-2. long- holds long integers(exists in Python 2.x, deprecated in Python 3.x).
-3. float- holds floating precision numbers and it’s accurate up to 15 decimal places.
-4. complex- holds complex numbers.
+- **Integer:** Examples include 10, 500, -40, 9, etc. 
+- **Float (Decimal numbers):** Examples include 3.14, 15, 97, 13.02, etc. 
+- **Boolean:** Represents either TRUE or FALSE. It can also be represented as 0 for FALSE and 1 for TRUE.
+- **String:** Represents sequences of characters. Examples include "Matt", "John", "Stuart", "Carpenter", etc.
+    
+**Python Numeric Data Types:**
 
-In Python, we need not declare a datatype while declaring a variable like C or C++. We can simply just assign values in a variable. But if we want to see what type of numerical value is it holding right now, we can use **type()**
+Python has several numeric data types to hold numeric values. Unlike languages like C or C++, Python doesn't require explicit declaration of data types during variable assignment. The common numeric data types are:
+
+- **int:** Holds signed integers of non-limited length.
+- **long:** Holds long integers. Note: This existed in Python 2.x but is deprecated in Python 3.x.
+- **float:** Holds floating precision numbers accurate up to 15 decimal places.
+- **complex:** Holds complex numbers.
+
+To determine the current data type of a variable, the `type()` function can be used.
+
+This structure provides a clear breakdown of the information about variables and numeric data types in Python.
 
 
 # control-structures-if-for-while
