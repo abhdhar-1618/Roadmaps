@@ -78,6 +78,7 @@
    - [Online Courses (edX, Coursera, etc.)](#online-courses)
    - [Books on Power BI](#books-on-power-bi)
    - [Power BI Blogs and Community Contributions](#power-bi-blogs-and-community-contributions)
+   - [Practical Dashboard Projects](#Practical-Dashboard-Projects)
 
 
 
@@ -263,7 +264,25 @@
 
 # books-on-power-bi
 
-  
 
-# power-bi-blogs-and-community-contributions
+# Practical-Dashboard-Projects
+
+1. Source:- Youtube
+   Channel Name:- End to End
+   Data Source:- [Link](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory)
+   Video Link:- [Link](https://www.youtube.com/watch?v=-8676S8m91w)
+   
+
+
+2. Source:- Youtube
+    Channel Name:- Rishabh Mishra
+    Data Source:- [Link](https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP3SME_R6qsCS2Og)
+    Video Link:- [Link](https://www.youtube.com/watch?v=j4xlVLgsmNQ)
+
+
+
+Project Objectives:-
+
+- Key factors for employees leaving the organistaion
+  
 
