@@ -6,3 +6,6 @@ Study roadmaps for Python, Power BI, SQL, Git and Excel and any other subjects t
 14-11-2023 21:53:35 Python learning script added and updates done in "variables-data-types-operators" section
 
 24-05-2024 21:58:50 nwd
+
+31-05-2024 23:22:23 nwd
+
