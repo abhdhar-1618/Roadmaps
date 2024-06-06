@@ -16,3 +16,6 @@ Study roadmaps for Python, Power BI, SQL, Git and Excel and any other subjects t
 04-06-2024 23:47:06 nwd
 
 05-06-2024 23:44:12 nwd
+
+r"C:\Users\Abhik\Downloads\Installers_Sep-23\chromedriver-win64\chromedriver-win64\chromedriver.exe"
+
