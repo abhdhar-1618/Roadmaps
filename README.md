@@ -34,3 +34,5 @@ Study roadmaps for Python, Power BI, SQL, Git and Excel and any other subjects t
 20-06-2024 23:39:09 nwd
 
 21-06-2024 18:27:46 nwd
+
+22-06-2024 23:46:00 nwd
