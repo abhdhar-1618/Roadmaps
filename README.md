@@ -58,3 +58,5 @@ Study roadmaps for Python, Power BI, SQL, Git and Excel and any other subjects t
 03-07-2024 21:40:18 nwd
 
 04-07-2024 21:16:19 nwd
+
+01-09-2024 20:51:30 restart of work
