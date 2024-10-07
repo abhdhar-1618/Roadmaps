@@ -74,3 +74,11 @@ Study roadmaps for Python, Power BI, SQL, Git and Excel and any other subjects t
 07-09-2024 23:31:41 nwd
 
 10-09-2024 21:47:11 nwd
+
+
+"D:\Main\My Practice and experiments\My Practice LAB\Python\2024\StrataScratch Python Projects\Flagging Loans\Dataset\datasets\test_task.csv"
+
+
+
+"D:\Main\My Practice and experiments\My Practice LAB\Data_Hub\datasets\Oscars dataset\Alternate approach\database.csv"
+"D:\Main\My Practice and experiments\My Practice LAB\Data_Hub\datasets\Oscars dataset\Alternate approach\movie_metadata.csv"
